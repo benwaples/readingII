@@ -11,3 +11,8 @@ I like how with template literals you can do some JS inside of the {}. It is ver
 Using template literals in a function never occurred to me. You could create whole html elements like this and and be able to add the right ids/classes and other attributes much quicker!
 
 ## Array Methods
+### Array.forEach()
+`.forEach()` will execute a function for each position on an array. It takes in a call back function for each position on the array, and then returns that to the forEach() function.s
+
+### for loops vs. forEach
+For loops are hand when you want to count other things that aren't arrays. Otherwise they are pretty much the same and .forEach is easier to read.
