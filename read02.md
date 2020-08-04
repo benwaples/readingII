@@ -12,3 +12,20 @@ I keep seeing a ? being used in the code and Idk what that does. Other than that
 1. Is it passed in from a parent via props? If so, it probably isn’t state.
 2. Does it remain unchanged over time? If so, it probably isn’t state.
 3. Can you compute it based on any other state or props in your component? If so, it isn’t state.
+
+## UI Components by Design
+having reusable components is really nice. having the UI team and UX team communicate is hard.
+
+## Callbacks
+functions can have other function as parameters. When the function that is a parameter is finished, the returning value is then passed the the parent function. JS has first class functions -- functions that can be assigned to a variable and treated like a variable.
+
+## Classes
+used to make objects that are similar. syntax looks like:
+
+`class Mother {
+    constructor(name) {
+        name = this.name;
+        type = legend;
+        makerLevel = unlimited;
+    }
+}`
