@@ -8,3 +8,5 @@
 5. Making sure that the app is running I ran`heroku ps:scale web=1`
 6. To open the app, you just run `heroku open` in the terminal.
 7. heroku keeps track of all events, to see those events I ran `heroku logs --tail`
+
+so I guess heroku builds web servers! Is that different from github deployed sites, or netlify? Probably in someway. The cool thing is that I am deploying my sites by myself, not through netlify or github pages, but through my own terminal. Neat 
