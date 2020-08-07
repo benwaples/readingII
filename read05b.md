@@ -17,3 +17,6 @@ Critical thinking is a learned skill:
 1. Question assumptions: lots of ways to do this, but try thinking of alternatives to current solutions as a way to start. </br>
 2. Reason through logic: test your assumptions </br>
 3. Diversify thought: Two people most likely see the world differently, 10 people definitely do, make friends with people who do different things than you and listen to them </br>
+
+## Power of Questions
+ask questions. Ask questions people want to answer. Ask follow up questions. Ask open ended questions in low risk situations. Less-sensitive questions -> more sensitive question when building a relationship, opposite when negotiating. Ask questions casually. Be transparent when answering questions too. 
