@@ -19,4 +19,17 @@ Text values are a thing. There are databases completely dedicated to full-text s
 
 database schema is what describes the structure of each table and the datatype of each column.</br>
 
-`INSERT` to add new data entry's into a table</br>
+`INSERT INTO` to add new data entry's into a table</br>
+
+`UPDATE` is used to update a existing data</br>
+
+`DELETE FROM` to delete from a table</br>
+
+`CREATE TABLE` ... </br>
+
+`ALTER TABLE` and `ADD` to add new columns</br>
+
+`DROP TABLE IF EXISTS` to delete a table entirely - data included.</br>
+
+## W3
+This is sweet! Really helpful to just test what I learned from the last reading. Maybe a good resource to save for the future to see if my calls are working well before I make a big mistake in a database call!
