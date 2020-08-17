@@ -1,7 +1,7 @@
 # Summary of Reading 09
 
 ## SQLBolt (5-8)
-
+crushed exercise 5 which was review!
 
 ## DB Normalization in English
 Database Normalization helps with organizing a database so that it is easier to create new entries as well as make querys for entries. It prevents duplicate info as well and keeps each entry organized to the topic.
